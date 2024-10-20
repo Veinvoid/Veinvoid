@@ -19,7 +19,7 @@
 <div align="center">
     <a href="https://go.dev/"><img src="https://img.shields.io/badge/go-00b1ff?style=for-the-badge&logo=go&logoColor=white" /></a>
     <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-c34c00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-    <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+    <a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" /></a>
     <a href="https://nginx.org/en/"><img src="https://img.shields.io/badge/nginx-009111?style=for-the-badge&logo=nginx&logoColor=white" /></a>
     <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-005868?style=for-the-badge&logo=mysql&logoColor=white" /></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
@@ -29,7 +29,7 @@
 
 - *Primary language is **Go**, start in **early 2023**.*
 - *First exposure was **Java**, around **3 years**.*
-- *Start learning **Rust**.*
+- ***Hugo** as [Blog](https://veinvoid.github.io/) framework.*
 - *Know a little about **Nginx** and **MySQL**.*
 - *Using **Docker** container.*
 
@@ -57,11 +57,10 @@
 
 - - -
 
-### Contact
+### 📫 Contact
 
 [![Github](https://img.shields.io/badge/@Veinvoid-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Veinvoid)
-[![X](https://img.shields.io/badge/@Veinvoid-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Veinvoid0825)
-[![Discord](https://img.shields.io/badge/@Veinvoid-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/veinvoid0825)
+[![Discord](https://img.shields.io/badge/@Veinvoid-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/no.08142)
 
 - - -
 
